@@ -26,5 +26,5 @@ bucket4j:
 
 booleanuk:
   app:
-    jwtSecret: ===============================BooleanUK=Spring==============================================
-    jwtExpirationMs: 86400000
+    jwtSecret: "ToytaSupraBISCar12412133141241414214"
+    jwtExpirationMs: 3600000
